@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/python
 import socket
 import sys
 from thread import *
